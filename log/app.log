@@ -1,0 +1,5 @@
+[2016-08-17 00:12:52] app.CRITICAL: SQLSTATE[HY000] [1045] Access denied for user ''@'localhost' (using password: NO) [] {"uid":"7950865"}
+[2016-08-17 00:13:33] app.CRITICAL: SQLSTATE[HY000] [1049] Unknown database 'test' [] {"uid":"98060a9"}
+[2016-09-08 07:52:39] app.CRITICAL: SQLSTATE[HY000] [1049] Unknown database 'test' [] {"uid":"c677041"}
+[2016-09-08 22:57:28] app.CRITICAL: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) [] {"uid":"6b94b5c"}
+[2016-09-08 23:00:19] app.CRITICAL: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES) [] {"uid":"180c480"}
